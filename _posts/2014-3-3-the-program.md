@@ -3,7 +3,7 @@ layout: post
 title: The program
 ---
 
-Vi træner for at blive *stærke*. Derfor laver vi de øvelser der aktiverer flest muskelgrupper og hvor vi kan bevæge mest vægt.
+Vi træner for at blive *stærke*. Derfor laver vi de øvelser der aktiverer flest muskelgrupper og hvor vi kan flytte mest vægt.
 
 ----
 
